@@ -1,0 +1,7 @@
+pandas>=1.5.0
+python-docx>=0.8.11
+PyPDF2>=3.0.0
+pathlib
+scikit-learn>=1.2.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
