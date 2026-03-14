@@ -2,6 +2,8 @@
 
 A web app that classifies resumes into job roles using NLP and machine learning. Users can upload a PDF/DOCX or paste resume text to get instant role predictions with confidence scores.
 
+Live Demo - https://resume-classification-73xjsm8kgc8v72ctreoydm.streamlit.app/
+
 ## Features
 - Upload resumes (PDF/DOCX) or paste raw text  
 - Automatic text extraction and preprocessing  
