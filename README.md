@@ -19,9 +19,9 @@ A web app that classifies resumes into job roles using NLP and machine learning.
 
 ## Models Evaluated
 - Logistic Regression  
-- Linear SVM  
+- Linear SVM  ( Final Model )
 - Random Forest  
-- Multinomial Naive Bayes (final model)
+- Multinomial Naive Bayes
 
 **Final Model:** Multinomial Naive Bayes  
 Chosen for strong performance and fast inference on sparse text features.
